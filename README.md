@@ -47,39 +47,11 @@ L’objectif est de comprendre les modules natifs de Node.js ainsi que les bases
   - POST /api/users : ajouter un utilisateur
 - Middleware pour traiter les requêtes JSON
 
-## Étape 7 — Ajout de fonctionnalités avancées
-### Modules supplémentaires
-- dotenv : variables d’environnement
-- morgan : journalisation
 
-### Améliorations apportées
-- Création d’un fichier .env
-- Ajout d’un dossier public avec interface web
-- Routeur Express dédié aux utilisateurs
-- Middleware de gestion des erreurs
 
-## Interface utilisateur
-Une page HTML permet :
-- D’ajouter un utilisateur
-- De charger dynamiquement la liste des utilisateurs via l’API
+<img width="1000" height="628" alt="image" src="https://github.com/user-attachments/assets/38cef8c1-6171-4fbb-8e89-ce481a8d49e6" />
 
-## Conclusion
-À la fin de ce TP, vous aurez appris :
 
-### Modules natifs Node.js
-- http
-- fs
-- path
-- url
 
-### Modules externes
-- Express.js
-- Morgan
-- Dotenv
 
-## Pour aller plus loin
-- Ajouter une base de données
-- Authentification (JWT)
-- Tests unitaires
-- Déploiement (Heroku, Vercel, AWS)
 
